@@ -1,4 +1,4 @@
-# macsetup
+# Mac Setup M2
 
 Install X Code via AppleScript:
 
